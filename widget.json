@@ -1,0 +1,6 @@
+{
+  "name": "AI Usage",
+  "description": "Shows Claude Code and OpenAI Codex subscription limits (session, weekly and monthly % used with reset times) from the vendors' own CLIs, plus estimated token usage from ccusage.",
+  "author": "Rishabh Srivastava",
+  "homepage": "https://github.com/rishabhsrivastava-dev/ai-usage.widget"
+}
